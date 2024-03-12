@@ -1,5 +1,9 @@
 # CSARCH2 Exhibit Documentation
 
+### About this Repo
+- Main Documentation Collages in the Documentation folder
+- Extra files that were significant in the exhibit also uploaded
+
 ### Details
 Section: S13
 Group: 8
